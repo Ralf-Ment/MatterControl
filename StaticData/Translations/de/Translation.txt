@@ -8,10 +8,10 @@ English:Status
 Translated:Status
 
 English:Connected
-Translated:In Verbindung gebracht
+Translated:Verbunden
 
 English:Not Connected
-Translated:Nicht verbunden
+Translated:Nicht Verbunden
 
 English:Select Printer
 Translated:Drucker auswählen
@@ -20,19 +20,19 @@ English:Options
 Translated:Optionen
 
 English:Next Print
-Translated:Weiter drucken
+Translated:Nächster Druck
 
 English:Add
 Translated:Hinzufügen
 
 English:Add a file to be printed
-Translated:Fügen Sie eine Datei gedruckt werden
+Translated:Druck hinzufügen
 
 English:Start
-Translated:Anfang
+Translated:Start
 
 English:Begin printing the selected item.
-Translated:Beginnen Sie das ausgewählte Element zu drucken.
+Translated:Beginnen Sie mit dem Drucken des ausgewählten Elements.
 
 English:Skip
 Translated:Überspringen
@@ -50,16 +50,16 @@ English:Pause
 Translated:Pause
 
 English:Pause the current print
-Translated:Halten Sie den aktuellen Druck
+Translated:Halten Sie den aktuellen Druck an
 
 English:Cancel Connect
-Translated:Abbrechen Schließen
+Translated:Verbindung Trennen
 
 English:Stop trying to connect to the printer.
-Translated:Hör auf, an den Drucker zu verbinden.
+Translated:Versuchen Sie nicht, eine Verbindung zum Drucker herzustellen.
 
 English:Cancel
-Translated:Stornieren
+Translated:Abbrechen
 
 English:Stop the current print
 Translated:Stoppen Sie den aktuellen Druck
@@ -68,16 +68,16 @@ English:Resume
 Translated:Fortsetzen
 
 English:Resume the current print
-Translated:Fortsetzen des aktuellen Druck
+Translated:Aktuellen Druck fortsetzen 
 
 English:Reprint
-Translated:Abdruck
+Translated:Neudruck
 
 English:Print current item again
-Translated:Drucken wieder aktuelle Element
+Translated:Aktuelles Element erneut drucken
 
 English:Done
-Translated:Erledigt
+Translated:Abgeschlossen
 
 English:Move to next print in queue
 Translated:Zum nächsten Druck in der Warteschlange
@@ -92,7 +92,7 @@ English:No items in the print queue
 Translated:Keine Artikel in der Druckwarteschlange
 
 English:Queued to Print
-Translated:Queued zu drucken
+Translated:Warteschlange drucken
 
 English:View
 Translated:Aussicht
@@ -119,13 +119,13 @@ English:Remove All
 Translated:Alles entfernen
 
 English:Queue Options
-Translated:Queue-Optionen
+Translated:Warteschlangen-Optionen
 
 English: Import from Zip
-Translated: Import von Zip
+Translated: Importiren von Zip
 
 English: Export to Zip
-Translated: Export nach Zip
+Translated: Exportiren nach Zip
 
 English: Export to Folder
 Translated: In Ordner exportieren
@@ -134,10 +134,10 @@ English:Extra
 Translated:Extra
 
 English: Create Part Sheet
-Translated: Erstellen Teil Blatt
+Translated: Teilblatt erstellen
 
 English:Search
-Translated:Suche
+Translated:Suchen
 
 English:Import
 Translated:Einführen
@@ -155,7 +155,7 @@ English:Install Update
 Translated:Installiere Update
 
 English:There are updates available.
-Translated:Es gibt Updates zur Verfügung.
+Translated:Ein Update steht zur Verfügung.
 
 English:Checking for updates...
 Translated:Suche nach Updates ...
@@ -173,7 +173,7 @@ English:Please consider
 Translated:Beachten Sie bitte
 
 English:donating
-Translated:spenden
+Translated:Spenden
 
 English: to help support and improve MatterControl.
 Translated: zu helfen, Unterstützung und Verbesserung der MatterControl.
@@ -185,7 +185,7 @@ English:Slic3r
 Translated:Slic3r
 
 English:and to David Braam and Ultimaker BV, for the amazing 
-Translated:und David Braam und Ultimaker BV, für die erstaunliche
+Translated:und für David Braam und Ultimaker BV, für das Erstaunliche
 
 English:CuraEngine
 Translated:CuraEngine
@@ -212,7 +212,7 @@ English:Rotate
 Translated:Drehen
 
 English:Scale
-Translated:Rahmen
+Translated:Skala
 
 English:Mirror
 Translated:Spiegel
@@ -233,25 +233,25 @@ English:Auto-Arrange
 Translated:Automatisch anordnen
 
 English:Save
-Translated:sparen
+Translated:Speichern
 
 English:Degrees
-Translated:Degrees
+Translated:Abschlüsse
 
 English:Align to Bed
-Translated:Richten Sie zu Bett
+Translated:An Bett ausrichten
 
 English:Ratio
 Translated:Verhältnis
 
 English:Conversions
-Translated:Conversions
+Translated:Umwandeln
 
 English:reset
 Translated:zurückstellen
 
 English:Apply Scale
-Translated:bewerben Skala
+Translated:Speichern Skala
 
 English:Finding Parts
 Translated:Die Suche nach Teile
@@ -302,7 +302,7 @@ English:Target
 Translated:Ziel
 
 English:Presets
-Translated:Presets
+Translated:Voreinstellungen
 
 English:Movement Controls
 Translated:Bewegungssteuerungen
@@ -311,10 +311,10 @@ English:ALL
 Translated:ALLE
 
 English:UNLOCK
-Translated:UNLOCK
+Translated:ENTSPERREN
 
 English:Retract
-Translated:Einfahren
+Translated:Einziehen
 
 English:Extrude
 Translated:Extrude
@@ -323,7 +323,7 @@ English:Communications
 Translated:Kommunikation
 
 English:SHOW TERMINAL
-Translated:SHOW TERMINAL
+Translated:ZEIGE TERMINAL
 
 English:Fan Controls
 Translated:Lüftersteuerung
@@ -344,10 +344,10 @@ English:Speed Multiplier
 Translated:Speed-Multiplier
 
 English:Set
-Translated:Set
+Translated:Setzen
 
 English:Extrusion Multiplier
-Translated:Extrusion Multiplier
+Translated:Extrusion Multiplikator
 
 English:Controls
 Translated:Steuerung
@@ -368,13 +368,13 @@ English:unsaved changes
 Translated:ungesicherte Änderungen
 
 English:Revert
-Translated:zurückfallen
+Translated:zurückfahren
 
 English:Options   
 Translated:Optionen
 
 English:Slice Engine
-Translated:Scheibe Motor
+Translated:Slice Engine
 
 English:No Printer Selected
 Translated:Kein Drucker ausgewählt
@@ -3275,16 +3275,16 @@ English:More
 Translated:Mehr
 
 English:Share
-Translated:Aktie
+Translated:Teilen
 
 English:WARNING: Write Failed!
-Translated:WARNUNG: Fehler schreiben!
+Translated:WARNUNG: Schreiben fehlgeschlagen!
 
 English:Can't access '{0}'.
 Translated:Kein Zugriff auf '{0}'.
 
 English:Oops! Unable to save changes.
-Translated:Hoppla! Können Sie die Änderungen zu speichern.
+Translated:Hoppla! Änderungen kann nicht gespeichernt werden.
 
 English:Unable to save
 Translated:Speichern nicht möglich
@@ -3293,7 +3293,7 @@ English:Terminal
 Translated:Terminal
 
 English:Settings\n& Controls
-Translated:Einstellungen\nund Kontrollen
+Translated:Einstellungen\n& Kontrollen
 
 English:Print Area
 Translated:Druckbereich
@@ -3305,10 +3305,10 @@ English:Location: 'Advanced Controls' -> 'Slice Settings' -> 'Print' -> 'Advance
 Translated:Lage: "Erweiterte Einstellungen" -> "Slice-Einstellungen" -> "Drucken" -> "Erweitert" -> "frist-Layer '
 
 English:First Layer Extrusion Width' must be greater than 0.
-Translated:Erste Schicht Extrusion Breite 'muss größer als 0 sein.
+Translated:Erste Schicht Extrusionbreite 'muss größer als 0 sein.
 
 English:First Layer Extrusion Width = {0}
-Translated:Erste Schicht Extrusion Width = {0}
+Translated:Erste Schicht Extrusionsbreite = {0}
 
 English:Location: 'Settings & Controls' -> 'Settings' -> 'General' -> 'Speed'
 Translated:Ort: 'Einstellungen und Kontrolle "->" Einstellungen "->" Allgemein "->" Speed ​​"
@@ -3362,7 +3362,7 @@ English:Also save to Library
 Translated:Speichern Sie auch zur Bibliothek
 
 English:Home
-Translated:Zuhause
+Translated:Home
 
 English:The collection you are trying to delete '{0}' is not empty. Would you like to delete it anyway?
 Translated:Die Sammlung, die Sie versuchen, zu löschen '{0}' ist nicht leer. Möchten Sie es trotzdem zu löschen?
@@ -3386,7 +3386,7 @@ English:Thumbnail Rendering
 Translated:Thumbnail-Rendering
 
 English:Flat
-Translated:Wohnung
+Translated:Ebene
 
 English:3D
 Translated:3D
@@ -5936,7 +5936,7 @@ English:Heating side 2.
 Translated:Heizung Seite 2.
 
 English:Done!
-Translated:Erledigt!
+Translated:Abgeschlossen!
 
 English:WARNING: In order to perform print recovery, your printer must move down to reach its home position.\nIf your print is too large, part of your printer may collide with it when moving down.\nMake sure it is safe to perform this operation before proceeding.
 Translated:ACHTUNG: Um Druckwiederherstellung durchzuführen, der Drucker muss seine Ausgangsposition nach unten zu erreichen. \ N Wenn Ihr Druck zu groß ist, Teil Ihres Druckers mit ihm kollidieren, wenn nach unten bewegen kann. \ N Stellen Sie sicher, es ist sicher, diesen Vorgang auszuführen, bevor Sie fortfahren.
